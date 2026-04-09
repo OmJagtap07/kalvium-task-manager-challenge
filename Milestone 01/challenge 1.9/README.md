@@ -1,4 +1,5 @@
 # Vibe vs. Pair Challenge
+Ready for evaluation.
 
 This challenge involves building the same Task Manager application twice to compare two distinct AI-assisted development workflows: **Vibe Coding** (using generative UI/app tools) and **AI Pair Programming** (using editor-integrated assistants). By the end, you'll have a clear understanding of the strengths and weaknesses of each approach.
 
@@ -38,5 +39,5 @@ You will be building a standalone Task Manager. You must strictly follow the req
 
 ## How to Submit
 
-1. **PR Link:** [Insert your Pull Request link here]
-2. **Video Link:** [Insert your recorded Google Drive video link here]
+1. **PR Link:** https://github.com/OmJagtap07/kalvium-task-manager-challenge/pull/1
+2. **Video Link:** https://drive.google.com/file/d/1x_tRKLIdSCJQf6o39sN3ki2W4pW7QGqw/view
