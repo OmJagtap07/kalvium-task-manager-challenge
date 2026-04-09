@@ -1,4 +1,5 @@
 # Vibe vs. Pair Challenge
+Ready for evaluation.
 
 This challenge involves building the same Task Manager application twice to compare two distinct AI-assisted development workflows: **Vibe Coding** (using generative UI/app tools) and **AI Pair Programming** (using editor-integrated assistants). By the end, you'll have a clear understanding of the strengths and weaknesses of each approach.
 
